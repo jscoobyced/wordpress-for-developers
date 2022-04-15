@@ -25,4 +25,6 @@ If you need to delete an installation, simply run the following from the directo
 
 ## To do
 
-- How to back-up the files and DB to easily install on a production server
+- Export the files and DB
+- Import the files and DB to production server
+- Setting up a production server with Nginx for multiple instances
